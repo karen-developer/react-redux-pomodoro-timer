@@ -11,7 +11,7 @@ body {
 }
 
 .pomodoro-wrapper {
-  margin    : 6em auto;
+  margin    : 3em auto;
   min-height: 100vh;
 }
 
@@ -141,7 +141,7 @@ button {
 }
 
 .shadow {
-  margin       : 4em auto 2em;
+  margin       : 3em auto 2em;
   width        : 16em;
   height       : 2em;
   border-radius: 50%;
