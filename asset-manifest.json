@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-redux-pomodoro-timer/static/css/main.d6bafbe5.chunk.css",
+    "main.css": "/react-redux-pomodoro-timer/static/css/main.56dfb9d1.chunk.css",
     "main.js": "/react-redux-pomodoro-timer/static/js/main.5b85e998.chunk.js",
     "main.js.map": "/react-redux-pomodoro-timer/static/js/main.5b85e998.chunk.js.map",
     "runtime-main.js": "/react-redux-pomodoro-timer/static/js/runtime-main.c1995c1e.js",
@@ -8,13 +8,13 @@
     "static/js/2.7235cc9c.chunk.js": "/react-redux-pomodoro-timer/static/js/2.7235cc9c.chunk.js",
     "static/js/2.7235cc9c.chunk.js.map": "/react-redux-pomodoro-timer/static/js/2.7235cc9c.chunk.js.map",
     "index.html": "/react-redux-pomodoro-timer/index.html",
-    "static/css/main.d6bafbe5.chunk.css.map": "/react-redux-pomodoro-timer/static/css/main.d6bafbe5.chunk.css.map",
+    "static/css/main.56dfb9d1.chunk.css.map": "/react-redux-pomodoro-timer/static/css/main.56dfb9d1.chunk.css.map",
     "static/js/2.7235cc9c.chunk.js.LICENSE.txt": "/react-redux-pomodoro-timer/static/js/2.7235cc9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c1995c1e.js",
     "static/js/2.7235cc9c.chunk.js",
-    "static/css/main.d6bafbe5.chunk.css",
+    "static/css/main.56dfb9d1.chunk.css",
     "static/js/main.5b85e998.chunk.js"
   ]
 }
